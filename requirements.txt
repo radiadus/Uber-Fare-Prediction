@@ -1,4 +1,5 @@
 streamlit
+scikit-learn
 numpy
 folium
 streamlit_folium
