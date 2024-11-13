@@ -1,3 +1,5 @@
-gunicorn
-pandas
-scikit-learn
+streamlit
+pickle
+numpy
+folium
+streamlit_folium
